@@ -1,0 +1,45 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	border: none;
+	margin: 0;
+}
+.tx {
+	padding: 20px;
+}
+.heading0 {
+	background-color: darkslategray;
+	color: gainsboro;
+	margin: 0;
+	position: relative;
+	padding: 20px;
+}
+.heading1 {
+	background-color: darkslategray;
+	margin: 0;
+	padding: 20px;
+	color: gainsboro;
+}
+p {
+	padding: 0px 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gainsboro;
+}
+li {
+  float: left;
+}
+ul a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul a:hover {
+  background-color: darkslategray;
+}
